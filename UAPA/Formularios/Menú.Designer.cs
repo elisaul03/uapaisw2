@@ -292,6 +292,7 @@
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox9.TabIndex = 7;
             this.pictureBox9.TabStop = false;
+            this.pictureBox9.Click += new System.EventHandler(this.pictureBox9_Click);
             // 
             // fmrmenu
             // 
@@ -307,6 +308,7 @@
             this.Name = "fmrmenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
+            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.fmrmenu_MouseDown);
             this.pnmenu.ResumeLayout(false);
             this.pnmenu.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();

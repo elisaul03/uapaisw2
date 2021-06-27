@@ -69,6 +69,7 @@
             this.txtclave.TabIndex = 2;
             this.txtclave.Text = "CONTRASEÑA";
             this.txtclave.Enter += new System.EventHandler(this.txtclave_Enter);
+            this.txtclave.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtclave_KeyPress);
             this.txtclave.Leave += new System.EventHandler(this.txtclave_Leave);
             // 
             // btnentrar
@@ -88,6 +89,7 @@
             this.btnentrar.Text = "Entrar";
             this.btnentrar.UseVisualStyleBackColor = false;
             this.btnentrar.Click += new System.EventHandler(this.button1_Click);
+            this.btnentrar.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.btnentrar_KeyPress);
             // 
             // btnsalir
             // 

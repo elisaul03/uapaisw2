@@ -331,6 +331,7 @@ namespace UAPA
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Usuarios";
             this.Load += new System.EventHandler(this.Usuarios_Load);
+            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Usuarios_MouseDown);
             this.tabctrusu.ResumeLayout(false);
             this.tp1usu.ResumeLayout(false);
             this.tp1usu.PerformLayout();

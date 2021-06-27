@@ -396,6 +396,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Asignaturas";
             this.Load += new System.EventHandler(this.fmrasignaturas_Load);
+            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.fmrasignaturas_MouseDown);
             this.tabControl1.ResumeLayout(false);
             this.tp1.ResumeLayout(false);
             this.tp1.PerformLayout();

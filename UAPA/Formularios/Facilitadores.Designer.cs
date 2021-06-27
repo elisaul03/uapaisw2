@@ -549,6 +549,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Facilitadores";
             this.Load += new System.EventHandler(this.fmrfacilitador_Load);
+            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.fmrfacilitador_MouseDown);
             this.tabControl1.ResumeLayout(false);
             this.tp1.ResumeLayout(false);
             this.tp1.PerformLayout();
