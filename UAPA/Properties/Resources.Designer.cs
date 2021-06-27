@@ -133,6 +133,26 @@ namespace UAPA.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap IMG_Servicios_Capacitacion_Portal_TS_2018 {
+            get {
+                object obj = ResourceManager.GetObject("IMG-Servicios_Capacitacion_Portal-TS-2018", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iusa_fullxfull_31389121_t7ft {
+            get {
+                object obj = ResourceManager.GetObject("iusa_fullxfull.31389121_t7ft", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap LOGO_AZUL {
             get {
                 object obj = ResourceManager.GetObject("LOGO-AZUL", resourceCulture);
