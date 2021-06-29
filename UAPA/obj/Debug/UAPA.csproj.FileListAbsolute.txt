@@ -63,3 +63,25 @@ C:\Users\aneur\OneDrive\Documents\Universidad Abierta Para Adultos (UAPA)\Asigna
 C:\Users\aneur\OneDrive\Documents\Universidad Abierta Para Adultos (UAPA)\Asignaturas\Ingenieira en Software II\Backup\Version 1.1\UAPA\UAPA\obj\Debug\UAPA.csproj.CopyComplete
 C:\Users\aneur\OneDrive\Documents\Universidad Abierta Para Adultos (UAPA)\Asignaturas\Ingenieira en Software II\Backup\Version 1.1\UAPA\UAPA\obj\Debug\UAPA.exe
 C:\Users\aneur\OneDrive\Documents\Universidad Abierta Para Adultos (UAPA)\Asignaturas\Ingenieira en Software II\Backup\Version 1.1\UAPA\UAPA\obj\Debug\UAPA.pdb
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.csproj.AssemblyReference.cache
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.fmrasignaturas.resources
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.fmrfacilitador.resources
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.fmrmenu.resources
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.fmrlogin.resources
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.fmrparticipante.resources
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.Properties.Resources.resources
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.Welcome.resources
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.Usuarios.resources
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.csproj.GenerateResource.cache
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.csproj.CoreCompileInputs.cache
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.exe
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.pdb
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\bin\Debug\UAPA.exe.config
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\bin\Debug\UAPA.exe
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\bin\Debug\UAPA.pdb
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\bin\Debug\CircularProgressBar.dll
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\bin\Debug\System.Data.Common.dll
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\bin\Debug\WinFormAnimation.dll
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\bin\Debug\CircularProgressBar.xml
+C:\Users\elisa\OneDrive\Desktop\etica\isw 2\trabajo fina isw2\UAPA\UAPA\obj\Debug\UAPA.csproj.CopyComplete

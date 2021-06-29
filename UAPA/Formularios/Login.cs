@@ -14,6 +14,8 @@ namespace UAPA
 {
     public partial class fmrlogin : Form
     {
+        //SqlConnection conectado = new SqlConnection(@"Data surce = DESKTOP-25FO5IC\SQLEXPRESS; initial catalog = uapa; Integrated Security=true");
+
 
         public fmrlogin()
         {
@@ -114,11 +116,7 @@ namespace UAPA
 
         private void txtclave_Leave(object sender, EventArgs e)
         {
-            if (txtusuario.Text == "")
-            {
-                txtusuario.Text = "CONTRASEÑA";
-                txtusuario.ForeColor = Color.DimGray;
-            }
+
         }
 
         private void fmrlogin_Load(object sender, EventArgs e)

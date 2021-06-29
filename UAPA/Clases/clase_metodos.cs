@@ -12,7 +12,7 @@ namespace UAPA
     public class clase_metodos
     {
         //conección con SQL SERVER
-        SqlConnection conexionsql = new SqlConnection(@"Data Source=DESKTOP-EVQDN0O;Initial Catalog=UAPA;Integrated Security=True");
+        SqlConnection conexionsql = new SqlConnection(@"Data Source=DESKTOP-25FO5IC\SQLEXPRESS;Initial Catalog=uapa;Integrated Security=True");
 
 
         public bool entrar(string usuario, string contrasena) //metodo para boton entrar del login 
